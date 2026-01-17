@@ -26,3 +26,39 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+# OS and System files
+*.DAT
+*.LOG1
+*.LOG2
+*.ini
+$nul
+$null
+.vscode/
+.gitconfig
+.lesshst
+.node_repl_history
+.emulator_console_auth_token
+
+# Development tools and caches
+.android/
+.angular-config.json
+.antigravity/
+.cache/
+.docker/
+.gemini/
+.gradle/
+.ipynb_checkpoints/
+.ipython/
+
+# Misc files and directories
+3D Objects/
+AppData/
+Contacts/
+Favorites/
+OneDrive/
+Saved Games/
+Searches/
+Videos/
+Untitled.ipynb
+ntuser.dat.*
+wekafiles/
